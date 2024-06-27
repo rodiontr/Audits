@@ -15,11 +15,12 @@ Profile links:
 |:-------------------|:-------------|
 | 5 High 9 Medium (1 solo) 12 Low  | $14300 |
 
-🥇 = Selected for report.
+🥇 = Selected for report
+
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | 
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
 |April 2024  | Acala | Code4rena | 1 Medium  | 
-|January 2024  | Opus | Code4rena | 1 Medium (solo) | 
+|January 2024  | Opus | Code4rena | 🥇 1 Medium (solo) | 
 |January 2024  | reNFT | Code4rena | 1 High 1 Medium | 
 |December 2023  | Revolution Protocol | Code4rena | 1 Medium | 
 |August  2023  | Dopex | Code4rena | 3 Medium  | 
