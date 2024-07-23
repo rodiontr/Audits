@@ -4,7 +4,7 @@
 Profile links:
 
 - **Code4rena:** https://code4rena.com/@ABAIKUNANBAEV
-- **HatsFinance:** https://app.hats.finance/profile/ABAIKUNANBAEV (#12 all time)
+- **HatsFinance:** https://app.hats.finance/profile/ABAIKUNANBAEV 
 - **Discord:** ABAIKUNANBAEV
 
 
