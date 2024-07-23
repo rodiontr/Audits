@@ -6,6 +6,7 @@ Profile links:
 - **Code4rena:** https://code4rena.com/@ABAIKUNANBAEV
 - **HatsFinance:** https://app.hats.finance/profile/ABAIKUNANBAEV 
 - **Discord:** ABAIKUNANBAEV
+- **Discord:** Solidity, Rust (Acala network), Cairo (Opus protocol), Go (Canto protocol)
 
 
 ## Total Results
