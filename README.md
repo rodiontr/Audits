@@ -19,7 +19,7 @@ Profile links:
 
 | Findings             | Results    | 
 |:-------------------|:-------------|
-| 5 High 9 Medium (1 solo) 12 Low  | $14300 |
+| 5 High 9 Medium (1 solo) 12 Low  | $15170 |
 
 🥇 = Selected for report
 
