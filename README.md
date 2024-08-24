@@ -3,8 +3,8 @@
 
 ## Achievements:
 
-**3 times top3 place in the public audit contests**
-**6 times top10 place in the public audit contests**
+- **3 times top3 place in the public audit contests**
+- **6 times top10 place in the public audit contests**
 
 Profile links:
 - **Sherlock (public profile with vulnerabilities from all platforms:** https://audits.sherlock.xyz/watson/0xeix
