@@ -8,7 +8,7 @@
 - **6 times top10 place in the public audit contests**
 
 Profile links:
-- **Sherlock (public profile with vulnerabilities from all platforms:** https://audits.sherlock.xyz/watson/0xeix
+- **Sherlock (public profile with vulnerabilities from all the platforms:** https://audits.sherlock.xyz/watson/0xeix
 - **Code4rena:** https://code4rena.com/@ABAIKUNANBAEV
 - **HatsFinance:** https://app.hats.finance/profile/ABAIKUNANBAEV 
 - **Discord:** ABAIKUNANBAEV
