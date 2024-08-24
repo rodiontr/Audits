@@ -4,6 +4,7 @@
 ## Achievements:
 
 - **3 times top3 place in the public audit contests**
+- **5 times top5 place in the public audit contests**
 - **6 times top10 place in the public audit contests**
 
 Profile links:
