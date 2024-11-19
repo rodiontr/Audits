@@ -16,7 +16,7 @@ Profile links:
 ## Contest highlights
 
 
-| Findings             | Results    | 
+| Findings (in total)            | Results    | 
 |:-------------------|:-------------|
 | 21 High 27 Medium (5 solo)  | $20830 |
 
