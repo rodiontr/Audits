@@ -15,7 +15,7 @@ Profile links:
 - **Languages on which vulnerabilities were found:** Solidity, Rust (Acala network), Cairo (Opus protocol), Go (Canto protocol)
 
 
-## Total Results
+## Contest highlights
 
 
 | Findings             | Results    | 
