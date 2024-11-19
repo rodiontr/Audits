@@ -12,7 +12,7 @@ Profile links:
 - **Code4rena:** https://code4rena.com/@ABAIKUNANBAEV
 - **HatsFinance:** https://app.hats.finance/profile/ABAIKUNANBAEV 
 - **Discord:** ABAIKUNANBAEV
-- **Languages on which vulnerabilities were found:** Solidity, Rust (Acala network), Cairo (Opus protocol), Go (Canto protocol)
+- **Languages on which vulnerabilities were found:** Solidity, Rust, Cairo, Go
 
 
 ## Contest highlights
@@ -26,6 +26,9 @@ Profile links:
 
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | 
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
+|September 2024 | Royco | Cantina | 6 Medium (2 solo 🥇) | 
+|September 2024  | Superposition | Code4rena | 2 Highs 1 Medium  | 
+|September 2024  | Chakra | Code4rena | 9 High 4 Medium  | 
 |April 2024  | Acala | Code4rena | 1 Medium  | 
 |January 2024  | Opus | Code4rena | 🥇 1 Medium (solo) | 
 |January 2024  | reNFT | Code4rena | 1 High 1 Medium | 
@@ -34,4 +37,4 @@ Profile links:
 |July 2023  |  Moonwell  | Code4Arena | 2 Medium | 
 |July 2023 | PoolTogether  | Code4rena | 1 High 1 Medium  |
 |May 2023  | Ajna Finance    | Code4rena | 2 High  |
-|May 2023  | Gravita Protocol | Hats Finance | 1 Medium  |
+|May 2023  | Gravita Protocol | Hats Finance |  🥇 1 Medium (solo)  |
