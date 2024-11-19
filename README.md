@@ -1,18 +1,15 @@
 
 # Portfolio - ABAIKUNANBAEV
 
-## Achievements:
 
-- **3 times top3 place in the public audit contests**
-- **5 times top5 place in the public audit contests**
-- **6 times top10 place in the public audit contests**
+## Achievements:
 
 Profile links:
 - **Sherlock (public profile with vulnerabilities from all the platforms:** https://audits.sherlock.xyz/watson/0xeix
 - **Code4rena:** https://code4rena.com/@ABAIKUNANBAEV
 - **HatsFinance:** https://app.hats.finance/profile/ABAIKUNANBAEV 
 - **Discord:** ABAIKUNANBAEV
-- **Languages on which vulnerabilities were found:** Solidity, Rust, Cairo, Go
+- **Languages:** Solidity, Rust, Cairo, Go
 
 
 ## Contest highlights
@@ -20,12 +17,13 @@ Profile links:
 
 | Findings             | Results    | 
 |:-------------------|:-------------|
-| 5 High 9 Medium (1 solo) 12 Low  | $15170 |
+| 21 High 27 Medium (5 solo)  | $20830 |
 
 🥇 = Selected for report
 
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | 
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
+|September 2024 | Woofi Solana | Sherlock | 1 Medium | 
 |September 2024 | Royco | Cantina | 6 Medium (2 solo 🥇) | 
 |September 2024  | Superposition | Code4rena | 2 Highs 1 Medium  | 
 |September 2024  | Chakra | Code4rena | 9 High 4 Medium  | 
