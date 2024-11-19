@@ -7,6 +7,7 @@
 Profile links:
 - **Sherlock (public profile with vulnerabilities from all the platforms:** https://audits.sherlock.xyz/watson/0xeix
 - **Code4rena:** https://code4rena.com/@ABAIKUNANBAEV
+- **Cantina:** https://cantina.xyz/u/RODION
 - **HatsFinance:** https://app.hats.finance/profile/ABAIKUNANBAEV 
 - **Discord:** ABAIKUNANBAEV
 - **Languages:** Solidity, Rust, Cairo, Go
