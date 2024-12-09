@@ -18,7 +18,7 @@ Profile links:
 
 | Findings (in total)            | Results    | 
 |:-------------------|:-------------|
-| 21 High 27 Medium (5 solo)  | $20830 |
+| 21 High 27 Medium (5 solo)  | $25670 |
 
 🥇 = Selected for report
 
