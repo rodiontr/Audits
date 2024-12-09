@@ -20,14 +20,14 @@ Profile links:
 |:-------------------|:-------------|
 | 21 High 27 Medium (5 solo)  | $25670 |
 
-🥇 = Solo findings
+🥇 = placed top5
 
 | Date             | Contest                                                                       | Platform                                                                                 | Findings | 
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|
 |September 2024 | Woofi Solana | Sherlock | 1 Medium | 
 |September 2024 | Royco | Cantina | 🥇 6 Medium (2 solo) | 
 |September 2024  | Superposition | Code4rena | 2 Highs 1 Medium  | 
-|September 2024  | Chakra | Code4rena | 9 High 4 Medium  | 
+|September 2024  | Chakra | Code4rena | 🥇 9 High 4 Medium  | 
 |April 2024  | Acala | Code4rena | 1 Medium  | 
 |January 2024  | Opus | Code4rena | 🥇 1 Medium (solo) | 
 |January 2024  | reNFT | Code4rena | 1 High 1 Medium | 
