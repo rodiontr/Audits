@@ -49,3 +49,21 @@ Profile links:
 |January  2024  | AlephZeroAMM | HatsFinance | 3  | Rust (ink!)
 |August  2023  | Stakewise | HatsFinance | 3  | Solidity
 |May 2023  | Gravita Protocol | Hats Finance | 5 | Solidity
+
+
+
+
+
+## Private engagements
+
+| Project          | Report   | 
+|:-------------------|:-------------|
+| ApeBond (Solana) - Sherlock collaborative audit | Private |
+| Pump.fun (Solana, first audit) - Pashov audit group | Private |
+| Pump.fun (Solana, second audit) - Pashov audit group | Private |
+| Indie.fun (Solana, first audit) - Hashlock | Private |
+| Indie.fun (Solana, second audit) - Hashlock | Private |
+| LayerOneX (Rust, blockchain) - Hashlock | Private |
+
+
+
