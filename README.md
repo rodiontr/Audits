@@ -67,7 +67,7 @@ Profile links:
 
 
 ## Bounties
+
 | Project          | Severity   |
 |:-------------------|:-------------|
-
 | Arkadiko (Clarity) | High |
