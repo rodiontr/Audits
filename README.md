@@ -66,4 +66,8 @@ Profile links:
 | LayerOneX (Rust, blockchain) - Hashlock | Private |
 
 
+## Bounties
+| Project          | Severity   |
+|:-------------------|:-------------|
 
+| Arkadiko (Clarity) | High |
