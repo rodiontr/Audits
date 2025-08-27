@@ -19,11 +19,12 @@ Profile links:
 
 | Findings (in total)            | Results    | 
 |:-------------------|:-------------|
-| 37 High 45 Medium (5 solo)  | $157000 |
+| 37 High 45 Medium (5 solo)  | $161000 |
 
 
 | Date             | Contest                                                                       | Platform                                                                                 | Place | Language
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
+|July 2025 | Oku protocol | Sherlock| 2 | Solidity
 |April 2025 | Aegis.im YUSD | Sherlock| 4 | Solidity
 |March 2025 | eigenlayer-contracts | Cantina| 7 | Solidity
 |February 2025 | Rova | Sherlock | 3 | Solidity, Move
