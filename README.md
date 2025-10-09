@@ -59,10 +59,16 @@ Profile links:
 
 | Project          | Report   | 
 |:-------------------|:-------------|
+| Fungible Future (Solidity, presale) - Sherlock collaborative audit | TBD |
+| Honeypop (Solidity, voting escrow) - Sherlock collaborative audit | TBD |
+| OzakAI (Solidity, launchpad) - Sherlock collaborative audit | TBD |
+| 1Inch (Solidity, limit order protocol) - Sherlock collaborative audit | TBD |
+| 1Inch (Solidity, cross-chain swaps) - Sherlock collaborative audit | TBD |
+| 1Inch (Solana) - Sherlock collaborative audit | TBD |
 | ApeBond (Solana) - Sherlock collaborative audit | TBD |
 | Pump.fun (Solana, first audit) - Pashov audit group | TBD |
 | Pump.fun (Solana, second audit) - Pashov audit group | TBD |
-| OrderlyNetwork (Solana staking) - Guardian audits | TBD |
+| OrderlyNetwork (Solana, staking) - Guardian audits | TBD |
 | Indie.fun (Solana, first audit) - Hashlock | Private |
 | Indie.fun (Solana, second audit) - Hashlock | Private |
 | LayerOneX (Rust, blockchain) - Hashlock | TBD |
