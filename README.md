@@ -69,7 +69,7 @@ Profile links:
 | ApeBond (Solana) - Sherlock collaborative audit | TBD |
 | Pump.fun (Solana, first audit) - Pashov audit group | TBD |
 | Pump.fun (Solana, second audit) - Pashov audit group | TBD |
-| OrderlyNetwork (Solana, staking) - Guardian audits | [report](/https://github.com/OrderlyNetwork/Audits/blob/45f132fc0f0b1ba5df108888d91fda18e23265cb/Guardian_Solana_Staking_03_2025.pdf) |
+| OrderlyNetwork (Solana, staking) - Guardian audits | [Report](/https://github.com/OrderlyNetwork/Audits/blob/45f132fc0f0b1ba5df108888d91fda18e23265cb/Guardian_Solana_Staking_03_2025.pdf) |
 | Indie.fun (Solana, first audit) - Hashlock | Private |
 | Indie.fun (Solana, second audit) - Hashlock | Private |
 | LayerOneX (Rust, blockchain) - Hashlock | TBD |
