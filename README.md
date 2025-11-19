@@ -24,6 +24,7 @@ Profile links:
 
 | Date             | Contest                                                                       | Platform                                                                                 | Place | Language
 |:-------------------|:------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------|:-------:|:-------:|
+|October 2025 | Index.fun (prediction market) | Sherlock| 2 | Solidity
 |July 2025 | Oku protocol | Sherlock| 2 | Solidity
 |April 2025 | Aegis.im YUSD | Sherlock| 4 | Solidity
 |March 2025 | eigenlayer-contracts | Cantina| 7 | Solidity
