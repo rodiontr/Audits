@@ -19,7 +19,7 @@ Profile links:
 
 | Findings (in total)            | Results    | 
 |:-------------------|:-------------|
-| 37 High 45 Medium (5 solo)  | $161000 |
+| 37 High 45 Medium (5 solo)  | $163200 |
 
 
 | Date             | Contest                                                                       | Platform                                                                                 | Place | Language
